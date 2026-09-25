@@ -169,7 +169,7 @@ The dataset is used for educational and portfolio analysis purposes. Please refe
 ```text
 Amazon-Ecommerce-Sales-Analysis/
 │
-├── Amazon.xlsx
+├── Amazon Sales.csv
 ├── Amazon_Sales_Analysis.sql
 ├── Amazon_Ecommerce_Sales_Analysis.pbix
 ├── Page1_Dashboard.png
