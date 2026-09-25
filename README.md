@@ -192,8 +192,6 @@ Amazon-Ecommerce-Sales-Analysis/
 - Data storytelling
 
 
-Then make sure the **Dashboard Preview** section immediately follows it:
-
 ```markdown
 ## Dashboard Preview
 
@@ -203,4 +201,4 @@ Then make sure the **Dashboard Preview** section immediately follows it:
 
 ### Customer & Product Analysis
 
-![Customer & Product Analysis](Page2_Customer_Product.png)t.png)
+![Customer & Product Analysis](Page2_Customer_Product.png)
