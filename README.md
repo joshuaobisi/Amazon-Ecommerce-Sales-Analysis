@@ -191,6 +191,10 @@ Amazon-Ecommerce-Sales-Analysis/
 - Business insight generation
 - Data storytelling
 
+
+Then make sure the **Dashboard Preview** section immediately follows it:
+
+```markdown
 ## Dashboard Preview
 
 ### Executive Dashboard
@@ -199,4 +203,4 @@ Amazon-Ecommerce-Sales-Analysis/
 
 ### Customer & Product Analysis
 
-![Customer & Product Analysis](Page2_Customer_Product.png)
+![Customer & Product Analysis](Page2_Customer_Product.png)t.png)
