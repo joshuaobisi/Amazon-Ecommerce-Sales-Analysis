@@ -192,13 +192,12 @@ Amazon-Ecommerce-Sales-Analysis/
 - Data storytelling
 
 
-```markdown
 ## Dashboard Preview
 
 ### Executive Dashboard
 
-![Executive Dashboard](Page1_Dashboard.png)
+![Executive Dashboard](./Page1_Dashboard.png)
 
 ### Customer & Product Analysis
 
-![Customer & Product Analysis](Page2_Customer_Product.png)
+![Customer & Product Analysis](./Page2_Customer_Product.png)
