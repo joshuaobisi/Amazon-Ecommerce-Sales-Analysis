@@ -190,3 +190,13 @@ Amazon-Ecommerce-Sales-Analysis/
 - Data visualization
 - Business insight generation
 - Data storytelling
+
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Page1_Dashboard.png)
+
+### Customer & Product Analysis
+
+![Customer & Product Analysis](Page2_Customer_Product.png)
