@@ -147,19 +147,6 @@ It includes:
 The dashboard allows users to interact with the data and explore performance across different dimensions.
 
 
-## Dataset
-
-The dataset used in this project is the **Amazon Sales Dataset**, obtained from Kaggle.
-
-The dataset contains **100,000 e-commerce transactions** and 20 columns covering orders, customers, products, sellers, payments, locations, and order status.
-
-Dataset source:
-
-[Kaggle — Amazon Sales Dataset](https://www.kaggle.com/datasets/rohiteng/amazon-sales-dataset)
-
-The original dataset is included in this repository as:
-
-`Amazon.xlsx`
 
 ## Dataset
 
